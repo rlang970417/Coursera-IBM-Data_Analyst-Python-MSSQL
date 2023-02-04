@@ -12,6 +12,3 @@ Run the script "setup.ps1" against the SQL Server instance on your localhost.
 
 ## 2. Optional. Python script test
 Run the script "tstsql.py" to verify the data.
-
-## 7. Optional. Schema removal
-The previously created schema can be removed by running "dbDestroySchema.ps1" against the target node.
